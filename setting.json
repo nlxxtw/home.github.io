@@ -1,18 +1,18 @@
 {
-    "title": "Auroraの主页",
+    "title": "JackTangの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Aurora,个人主页",
-    "author": "Aurora",
+    "keywords": "JackTang,个人主页",
+    "author": "JackTang",
     "logo_img": "./img/icon/avatar.jpg",
-    "logo_text_1": "wuhobin",
-    "logo_text_2": "top",
-    "github": "wuhobin",
-    "qq": "1289066006",
-    "email": "1289066006@qq.com",
+    "logo_text_1": "nlxxtw",
+    "logo_text_2": ".github.io",
+    "github": "nlxxtw",
+    "qq": "943828753",
+    "email": "943828753@qq.com",
     "bilibili": "495003013",
     "facebook": "bottom_user",
     "link_1": [
-        "http://blog.wuhobin.top/",
+        "http://nlxxtw.github.io",
         "fa-solid fa-blog",
         "博客"
     ],
@@ -22,7 +22,7 @@
         "统计"
     ],
     "link_3": [
-        "http://www.wuhobin.top/",
+        "http://nlxxtw.github.io",
         "fa-solid fa-compass",
         "起始页"
     ],
@@ -32,15 +32,15 @@
         "编程宝典"
     ],
     "link_5": [
-        "http://www.wuhobin.top/",
+        "http://nlxxtw.github.io",
         "fa-solid fa-flask",
-        "开发中..."
+        "操作系统"
     ],
     "link_6": [
-        "http://www.wuhobin.top/",
+        "http://nlxxtw.github.io/contact/",
         "fa-solid fa-flask",
         "敬请期待..."
     ],
     "Copyright_text": "Aurora",
-    "beian": "鄂ICP备20006685号"
+    "beian": "赣ICP备2022020022号"
 }
