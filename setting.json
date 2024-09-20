@@ -1,10 +1,10 @@
 {
-    "title": "JackTangの主页",
+    "title": "zdDownの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "JackTang,个人主页",
-    "author": "JackTang",
+    "keywords": "zdDown,个人主页",
+    "author": "zdDown",
     "logo_img": "./img/icon/avatar.jpg",
-    "logo_text_1": "nlxxtw",
+    "logo_text_1": "zdDown",
     "logo_text_2": ".github.io",
     "github": "nlxxtw",
     "qq": "943828753",
@@ -12,14 +12,14 @@
     "bilibili": "495003013",
     "facebook": "bottom_user",
     "link_1": [
-        "https://www.19492035.xyz",
+        "https://19492035.xyz",
         "fa-solid fa-blog",
         "博客"
     ],
     "link_2": [
-        "100.122.91.12:5244",
+        "https://www.zddown.icu",
         "fa-solid fa-cloud",
-        "cloud"
+        "网站"
     ],
     "link_3": [
         "http://nlxxtw.github.io",
@@ -27,20 +27,20 @@
         "起始页"
     ],
     "link_4": [
-        "https://codenote.wuhobin.top",
+        "https://image.vredu.icu/img/微信公众号.jpg",
         "fa-solid fa-book-bookmark",
-        "编程宝典"
+        "微信公众号"
     ],
     "link_5": [
-        "http://nlxxtw.github.io",
+        "https://image.vredu.icu/img/gh_53873b9daeb7_258.jpg",
         "fa-solid fa-flask",
-        "操作系统"
+        "资源小程序"
     ],
     "link_6": [
-        "http://nlxxtw.github.io/contact/",
+        "https://www.zddown.icu/",
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "JackTang",
+    "Copyright_text": "zdDown",
     "beian": "赣ICP备2022020022号"
 }
